@@ -1,0 +1,8 @@
+Graphical notification system for pending end-of-support date for the OS
+
+For usage, see the docstring in the the support-end-notifier.py file.
+
+This project is licensed under the LGPL, version 2.1 or later.
+
+To install, copy or link support-end-notifier.py into one of the
+systemd user-generator directories, see systemd.generator(7).
